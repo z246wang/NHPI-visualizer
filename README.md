@@ -1,6 +1,6 @@
 # Description
 
-NHPI Visualizer is a project for visualizing Canadian house market. It uses Java Swing, the Apache Commons Math Library, WEKA, JFreeChart and a mySQL database.
+NHPI Visualizer is a project for visualizing canadian house market. It uses Java Swing, the Apache Commons Math Library, WEKA, JFreeChart and a mySQL database.
 
 ## How To Use:
 
