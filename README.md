@@ -4,7 +4,7 @@ NHPI Visualizer is a project for visualizing canadian house market. It uses Java
 
 ## How To Use:
 
-The main executable java file is MainTest.java. 
+The main executable java file is MainTest.java (in the SQLConnection package).
 
 Input your own SQL url, username, and password in both the MainTest class and the SQLConnection class.
 
