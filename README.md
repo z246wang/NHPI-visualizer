@@ -1,7 +1,7 @@
 # Description
 
 NHPI Visualizer is a project for visualizing canadian house market. It uses Java Swing, the Apache Commons Math Library, WEKA, JFreeChart and a mySQL database.
-echoData.scv saved 20 year house values from Stats Canada.
+echoData.scv saved 20 year house values from Statistics Canada.
 
 ## How To Use:
 
