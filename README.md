@@ -7,9 +7,13 @@ echoData.scv saved 20 year house values from Statistics Canada.
 
 The main executable java file is MainTest.java (in the SQLConnection package).
 
-Input your own SQL url, username, and password in all the classes under the SQLConnection package.
+1. Input your own SQL url, username, and password in all the classes under the SQLConnection package.
 
-Then run MainTest.java to see the GUI and start the program.
+2. In your localhost:3306 database, create an "echodata" database.
+
+3. Run the InitializeDatabase.java to input data into the database.
+   
+4. Then run MainTest.java to see the GUI and start the program.
 
 ```java
 
