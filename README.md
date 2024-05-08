@@ -9,7 +9,7 @@ The main executable java file is MainTest.java (in the SQLConnection package).
 
 1. Input your own SQL url, username, and password in all the classes under the SQLConnection package.
 
-2. In your localhost:3306 database, create an "echodata" database.
+2. In your localhost:3306 database, create an "echodata" database and an "echodata" schema.
 
 3. Run the InitializeDatabase.java to input data into the database.
    
